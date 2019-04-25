@@ -1,10 +1,10 @@
-casino <SEP> your <1>
-newspaper <SEP> your <1>
-real estate <SEP> your <1>
-bread <SEP> your <1>
-beer <SEP> your <1>
-clothing brand <SEP> your <1>
-sock <SEP> your <1>
-cookie <SEP> your <1>
-cleaning service <SEP> your <1>
-coffee <SEP> your <1>
+casino <SEP> your happy
+bread <SEP> your happy
+clothing brand <SEP> your happy
+magazine <SEP> your happy
+newspaper <SEP> your happy
+cookie <SEP> your happy
+restaurant <SEP> your happy
+sock <SEP> your happy
+beauty salons, nail salon <SEP> your happy
+t-shirt <SEP> your happy

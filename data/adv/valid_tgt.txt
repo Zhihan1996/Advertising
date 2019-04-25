@@ -1,10 +1,10 @@
-cocopah casino. where dreams come true. <EOS>
-where friendship is the largest jackpot! <EOS>
-where you'd rather be! <EOS>
-normandie casino. where players win. <EOS>
-casino pauma. the players oasis <EOS>
-twin pine. your road to riches! <EOS>
-colorado grande. "where the winners play" <EOS>
-par-a-dice. the friendliest casino on the water <EOS>
-harrah's, oh yeah! <EOS>
-we bet you'll love it <EOS>
+casino <SEP> your happy
+bread <SEP> your happy
+clothing brand <SEP> your happy
+magazine <SEP> your happy
+newspaper <SEP> your happy
+cookie <SEP> your happy
+restaurant <SEP> your happy
+sock <SEP> your happy
+beauty salons, nail salon <SEP> your happy
+t-shirt <SEP> your happy
